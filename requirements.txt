@@ -1,0 +1,5 @@
+# Este projeto não requer dependências externas
+# Utiliza apenas bibliotecas padrão do Python
+
+# Python 3.x
+# Biblioteca os (incluída na instalação padrão)
